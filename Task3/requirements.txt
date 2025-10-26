@@ -1,0 +1,9 @@
+transformers==4.44.0
+torch
+nltk
+textblob
+textstat
+sentence-transformers
+matplotlib
+seaborn
+wordcloud
